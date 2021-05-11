@@ -1,0 +1,17 @@
+.jumbotron{
+   
+    background-color:rgba(172, 220, 241, 0.993);
+}
+
+.jumbotron h1{
+    font-size:xx-large;
+    font-family: algerian;
+    color:rgb(9, 53, 134);
+}
+
+.jumbotron p{
+    font-size:larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(9, 53, 134);
+    font-style: italic;
+}
